@@ -3,4 +3,5 @@ uvicorn
 scikit-learn
 pandas
 joblib
-datasets
+datasets==2.19.0
+huggingface-hub==0.23.0
